@@ -31,10 +31,6 @@ jobs:
           ostype: linux
           arch: arm64
 
-        - os: ubuntu-latest
-          ostype: linux
-          arch: armv7l
-
         - os: windows-latest
           ostype: win32
           arch: ia32
